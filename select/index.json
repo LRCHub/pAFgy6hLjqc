@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "今はいいんだよ。 - Ima Wa Iin Dayo.",
+  "base_artist": "Mafumafu",
+  "createdAt": "2026-03-27T16:37:14.311489Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今はいいんだよ。",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_今はいいんだよ。_まふまふ.txt"
+    }
+  ]
+}
